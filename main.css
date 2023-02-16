@@ -1,0 +1,13 @@
+@import './components/header/header.css';
+@import './components/header/colors.css';
+@import './components/postCard/posts.css';
+@import './components/loader/loader.css';
+@import './components/error/error.css';
+@import './components/postItem/postItem.css';
+
+
+body {
+    background-color: var(--body-background);
+    font-family: 'Montserrat', sans-serif;
+}
+

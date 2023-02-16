@@ -1,0 +1,13 @@
+:root {
+    --body-background: #f3f3f2;
+    --button-color: black;
+    --button-background: transparent;
+    --post-card-background: #FFF;
+    --post-attributes-color: rgba(0, 0, 0, .45);
+    --content-text-color: black;
+    --content-text-color-hover: black;
+    --content-text-color-hover-orange: rgb(250, 180, 2);
+    --error-status-color: rgb(66, 76, 101);
+    --error-text-color: rgba(66, 76, 101, .5);
+    --loager-color: rgba(192, 192, 192, .5);
+}
